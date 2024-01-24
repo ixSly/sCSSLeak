@@ -98,8 +98,8 @@ The leaked value can then be found on the `/loot` endpoint as well as the termin
 
 Clone the repository & Install the dependencies
 ```
-git clone https://github.com/your-username/flask-nonce-generator.git
-cd flask-nonce-generator
+git clone https://github.com/ixSly/sCSSLeak
+cd sCSSLeak
 python3 -m pip install -r requirements.txt
 ```
 
